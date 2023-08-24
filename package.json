@@ -1,0 +1,23 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(github.com/ealikan/PCAT)"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "ethem fırat alikan",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.0.2"
+  }
+}
